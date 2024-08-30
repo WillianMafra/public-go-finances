@@ -1,50 +1,18 @@
-# Welcome to your Expo app 👋
+# Go Finances
+### 📝 O Go Finances se trata de uma aplicação para controle de finanças, o app possui gráficos de gastos, cadastro de entradas e saídas e também login social utilizando OAuth do Google.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+| Login | Dashboard | Cadastro | Gráfico |
+| --- |---|---|---|
+| <img width="300px" src="Login.jpg"> | <img width="300px" src="Dashboard.jpg"> | <img width="300px" src="Cadastro.jpg"> | <img width="300px" src="Gráfico.jpg"> |
 
-## Get started
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1. Install dependencies
+## 🛠️ Desenvolvido utilizando React Native e Expo.
 
-   ```bash
-   npm install
-   ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-2. Start the app
+## 😄 Feito por Willian Mafra com base no curso da Rocketseat
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<a href="https://linkedin.com/in/willnmafra" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  willnmafra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a><br>
